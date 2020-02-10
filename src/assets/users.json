@@ -1,0 +1,7 @@
+{
+    "data": [
+        {"id": 1, "firstname": "Test1", "lastname": "Lnm1", "email": "test1.Lnm1@crud.edu"},
+        {"id": 2, "firstname": "Test2", "lastname": "Lnm2", "email": "test2.Lnm2@crud.edu"},
+        {"id": 3, "firstname": "Test3", "lastname": "Lnm3", "email": "test3.Lnm3@crud.edu"}
+    ]
+}
